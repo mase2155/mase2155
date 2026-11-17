@@ -1,8 +1,8 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="https://github.com/mase2155" style="font-size: 36px; font-weight: 800; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #111827 !important; text-decoration: none !important; letter-spacing: 1px;">
-    LÊ ĐÌNH HÙNG
-  </a>
+  <a href="URL_CỦA_BẠN" style="font-size: 40px; font-weight: 900; color: #111827; text-decoration: none !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  LÊ ĐÌNH HÙNG
+</a>
 </p>
 
 <!-- Social icons section -->
