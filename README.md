@@ -3,19 +3,19 @@
   <a href="" style="font-size: 24px; font-weight: bold; text-decoration: none; color: #0366d6;">LÊ ĐÌNH HÙNG</a>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.facebook.com/hungmaseco2k5">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; margin: 20px 0;">
+  <a href="https://www.facebook.com/hungmaseco2k5" target="_blank">
+    <img width="32" height="32" alt="Facebook" title="Facebook" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dhug.photos/?hl=en">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/>
+  <a href="https://www.instagram.com/dhug.photos/?hl=en" target="_blank">
+    <img width="32" height="32" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/hungmase2155/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/>
+  <a href="https://www.linkedin.com/in/hungmase2155/" target="_blank">
+    <img width="32" height="32" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8
+  <a href="https://www.tiktok.com/@dh.photos?_r=1&_t=ZS-9BUGM7nMShi" target="_blank">
+    <img width="32" height="32" alt="TikTok" title="TikTok" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
+  </a>
 </p>
 
 
