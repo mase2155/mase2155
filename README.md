@@ -29,8 +29,6 @@
         development, I enjoy exploring new knowledge and contributing to
         open-source communities. I also regularly share practical programming
         insights and knowledge
-      </div>
-    </div>
 
 
 <h2>📚 Language and Tools</h2>
