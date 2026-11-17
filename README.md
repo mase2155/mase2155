@@ -1,16 +1,18 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
-
+  <a href="" style="font-size: 24px; font-weight: bold; text-decoration: none; color: #0366d6;">LÊ ĐÌNH HÙNG</a>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/hungmaseco2k5"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <p align="center">
+  <a href="https://www.facebook.com/hungmaseco2k5"><img width="32px" alt="Facebook" title="Facebook" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dhug.photos/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.instagram.com/dhug.photos/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/hungmase2155/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/mVm29vK.png"/></a>
-  <a href="https://www.tiktok.com/@dh.photos?_r=1&_t=ZS-9BUGM7nMShi"><img width="32px" alt="TikTok" title="TikTok" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/hungmase2155/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.tiktok.com/@dh.photos?_r=1&_t=ZS-9BUGM7nMShi"><img width="32px" alt="TikTok" title="TikTok" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%);"/></a>
+</p>
 </p>
 
 
