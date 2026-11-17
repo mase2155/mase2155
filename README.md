@@ -1,6 +1,9 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="" style="font-size: 24px; font-weight: bold; text-decoration: none; color: #0366d6;">LÊ ĐÌNH HÙNG</a>
+  <a href="https://github.com/mase2155" style="font-size: 32px; font-weight: 800; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #2563eb, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; letter-spacing: 1.5px;">
+    ⚡ LÊ ĐÌNH HÙNG ⚡
+  </a>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
