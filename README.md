@@ -1,3 +1,10 @@
+<!-- Name Title -->
+<p align="center">
+  <a href="https://github.com/mase2155" style="font-size: 40px; font-weight: 900; color: #111827; text-decoration: none !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    LÊ ĐÌNH HÙNG
+  </a>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.facebook.com/hungmaseco2k5" target="_blank">
@@ -13,6 +20,8 @@
   </a>
 </p>
 
+---
+
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
@@ -22,18 +31,11 @@
   </a>
 
   <div align="left">
-
-Passionate about technology with a strong focus on backend system development, I enjoy exploring new knowledge and contributing to open-source communities. I also regularly share practical programming insights and knowledge
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
-</picture>
-
+    Passionate about technology with a strong focus on backend system development, I enjoy exploring new knowledge and contributing to open-source communities. I also regularly share practical programming insights and knowledge.
   </div>
 </div>
 
+<br clear="right"/>
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
@@ -46,6 +48,7 @@ Passionate about technology with a strong focus on backend system development, I
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
