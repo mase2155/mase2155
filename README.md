@@ -1,10 +1,3 @@
-<!-- Title The Full Name -->
-<p align="center">
-  <a href="URL_CỦA_BẠN" style="font-size: 40px; font-weight: 900; color: #111827; text-decoration: none !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  LÊ ĐÌNH HÙNG
-</a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.facebook.com/hungmaseco2k5" target="_blank">
@@ -60,14 +53,8 @@ Passionate about technology with a strong focus on backend system development, I
 <summary> More about me, fullstack dev 🔥
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
 </summary> 
-
-<p align="center">
-
-</a>
-
 ![Header](img/header_.png)
 
-![Hung2K5](gitartwork.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
