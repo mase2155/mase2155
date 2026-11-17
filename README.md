@@ -10,14 +10,10 @@
   <a href="https://www.instagram.com/dhug.photos/?hl=en" target="_blank">
     <img width="32" height="32" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
   </a>
-  <a href="https://www.linkedin.com/in/hungmase2155/" target="_blank">
-    <img width="32" height="32" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
-  </a>
   <a href="https://www.tiktok.com/@dh.photos?_r=1&_t=ZS-9BUGM7nMShi" target="_blank">
     <img width="32" height="32" alt="TikTok" title="TikTok" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(175deg) brightness(95%) contrast(85%); transition: transform 0.2s ease;" />
   </a>
 </p>
-
 
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
