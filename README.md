@@ -16,15 +16,21 @@
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
-<div>
-  <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Fullstack Open Source" align="right" width="210">
-  </a>
-</div>
-  <div align="left">
+<div class="content">
+      <div class="right">
+        <a href="https://github.com/reactifyx">
+          <img src="img/icon_docker_sys.png" alt="Fullstack Open Source"
+            align="right" width="210">
+        </a>
+      </div>
+      <div align="left">
 
-Passionate about technology with a strong focus on backend system development, I enjoy exploring new knowledge and contributing to open-source communities. I also regularly share practical programming insights and knowledge
-</div>
+        Passionate about technology with a strong focus on backend system
+        development, I enjoy exploring new knowledge and contributing to
+        open-source communities. I also regularly share practical programming
+        insights and knowledge
+      </div>
+    </div>
 
 
 <h2>📚 Language and Tools</h2>
